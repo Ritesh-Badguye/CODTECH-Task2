@@ -1,0 +1,21 @@
+/*Html code*/
+
+<html>
+<head>
+  <title>Interactive Quiz</title>
+  <link rel="stylesheet" href="quizstylesheet.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <div id="quiz"></div>
+    <button id="previous">Previous</button>
+    <button id="next">Next</button>
+    <button id="submit">Submit Quiz</button>
+    <div id="results"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
